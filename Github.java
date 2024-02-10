@@ -1,6 +1,6 @@
 public class Github{
 
-	String name = "Pi Pi";
+	String name = ":)";
 	int age = 20;
 	
 	public void introduce(){
